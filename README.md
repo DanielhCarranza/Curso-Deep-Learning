@@ -35,4 +35,15 @@ Contenido del curso:
   * Word embeddings
   * Clasificadores de Texto
 * Introduccion al Deep Reinforcement Learning
+
+
+Recursos para aprender Deep Learning
+* [Machine Learning Course](https://www.coursera.org/learn/machine-learning)
+* [Machine Learning Specialization](https://www.coursera.org/specializations/machine-learning)
+* [CS229 Machine Learning ](http://cs229.stanford.edu/syllabus.html)
+* [CS231  Deep Learning for Computer Vision](http://cs231n.stanford.edu/syllabus.html)
+* [CS224 Natural Language Processing](http://web.stanford.edu/class/cs224n/syllabus.html)
+* [Deep Learning by Google](https://www.udacity.com/course/deep-learning--ud730)
+* [Data Scientist with Python](https://www.datacamp.com/tracks/data-scientist-with-python)
+* [Deep Reinforcement Learning](http://rail.eecs.berkeley.edu/deeprlcourse/)
   
