@@ -9,6 +9,7 @@ Contenido del curso:
   * Introduccion a Python
   * Modulo Numpy
   * Modulo Pandas
+  * Visualizacion de datos con Matplotlib y Seaborn
 * Fundamentos Matematicos para el Deep Learning
   * Estadistica aplicada al Machine Learning
   * Probabilidad aplicada al ML
@@ -27,13 +28,15 @@ Contenido del curso:
   * Tensorflow eager execution y Keras API
 * Deep Learning for Computer Vision
   * Redes Neuronales Convolucionales
+  * Transfer Learning
   * Clasificacion en Imagenes
   * Deteccion de Objetos con Tensorflow Object Detection API
   * Algoritmos de Segmentacion 
 * Deep Learning for Natural Language Proccessing
   * Redes Neuronales Recurrentes
-  * Word embeddings
-  * Clasificadores de Texto
+  * Gated Recurrent Units
+  * Long Short Term Memory
+  * Bidirectional Recurrent Neural Networks
 * Introduccion al Deep Reinforcement Learning
 
 
