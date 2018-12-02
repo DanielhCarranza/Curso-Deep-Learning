@@ -6,7 +6,7 @@
 4. [Bases de Tensorflow ](https://github.com/DanielhCarranza/Curso-Deep-Learning/blob/master/Deep%20Learning/Tensorflow_Eager_Execution_Basics.ipynb)
 5. [Redes Neuronales con Tensorflow](https://github.com/DanielhCarranza/Curso-Deep-Learning/blob/master/Deep%20Learning/Redes_Neuronales_con_Tensorflow.ipynb)
 6. [Redes Neuronales Convoluciones Pytorch](https://github.com/DanielhCarranza/Curso-Deep-Learning/blob/master/Deep%20Learning/Redes_Neuronales_Convoluciones_Pytorch.ipynb)
-7. [Redes Neuronales Convolucionales](https://github.com/DanielhCarranza/Curso-Deep-Learning/blob/master/Deep%20Learning/Redes_Neuronales_Convolucionales.ipynb)
+7. [Redes Neuronales Convolucionales Tensorflow](https://github.com/DanielhCarranza/Curso-Deep-Learning/blob/master/Deep%20Learning/Redes_Neuronales_Convolucionales.ipynb)
 8. [Redes Neuronales Convolucionales con Keras](https://github.com/DanielhCarranza/Curso-Deep-Learning/blob/master/Deep%20Learning/DeepLearning_with_Keras.ipynb)
 9. [Transfer Learning](https://github.com/DanielhCarranza/Curso-Deep-Learning/blob/master/Deep%20Learning/Transfer_Learning.ipynb)
 10. [Gated Recurrent Neural Networks](https://github.com/DanielhCarranza/Curso-Deep-Learning/blob/master/Deep%20Learning/Gated_Recurrent_Units_with_Tensorflow.ipynb)
