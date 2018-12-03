@@ -37,6 +37,10 @@ Contenido del curso:
   * Gated Recurrent Units
   * Long Short Term Memory
   * Bidirectional Recurrent Neural Networks
+* Aprendizaje No supervisado
+  * Variational Autoencoders
+  * Generative Adversarial Neural Networks
+  
 * Introduccion al Deep Reinforcement Learning
 
 
