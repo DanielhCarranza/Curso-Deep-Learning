@@ -14,3 +14,4 @@
 12. [LSTM con Pytorch](https://github.com/DanielhCarranza/Curso-Deep-Learning/blob/master/Deep%20Learning/LSTM_with_Pytorch.ipynb)
 13. [LSTM con Tensorflow](https://github.com/DanielhCarranza/Curso-Deep-Learning/blob/master/Deep%20Learning/LSTM_with_Tensorflow.ipynb)
 14. [Bidirectional RNNs](https://github.com/DanielhCarranza/Curso-Deep-Learning/blob/master/Deep%20Learning/Bidirectional_RNN.ipynb)
+15. [Variational Autoencoders](https://github.com/DanielhCarranza/Curso-Deep-Learning/blob/master/Deep%20Learning/Variational_Autoencoders.ipynb)
