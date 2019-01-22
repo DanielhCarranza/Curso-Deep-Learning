@@ -44,7 +44,7 @@ Contenido del curso:
 * Introduccion al Deep Reinforcement Learning
 
 
-Recursos para aprender Deep Learning
+**Recursos para aprender Deep Learning**
 * [Machine Learning Course](https://www.coursera.org/learn/machine-learning)
 * [Machine Learning Specialization](https://www.coursera.org/specializations/machine-learning)
 * [CS229 Machine Learning ](http://cs229.stanford.edu/syllabus.html)
@@ -61,7 +61,7 @@ Recursos para aprender Deep Learning
 * [CMU Statistical Machine Learning](http://www.mit.edu/~9.520/fall15/index.html)
 * [CMU Convex Optimization](http://www.stat.cmu.edu/~ryantibs/convexopt-S15/)
 
-Libros
+**Libros**
 * [Understanding Machine Learning: From Theory to Algorithms](http://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/)
 * [Deep Learning Book](http://www.deeplearningbook.org/)
 * [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/)
