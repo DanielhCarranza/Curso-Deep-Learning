@@ -53,4 +53,17 @@ Recursos para aprender Deep Learning
 * [Deep Learning by Google](https://www.udacity.com/course/deep-learning--ud730)
 * [Data Scientist with Python](https://www.datacamp.com/tracks/data-scientist-with-python)
 * [Deep Reinforcement Learning](http://rail.eecs.berkeley.edu/deeprlcourse/)
+* [Neural Networks for Machine Learning](https://www.coursera.org/course/neuralnets)
+* [Oxford's Machine Learning](https://www.cs.ox.ac.uk/people/nando.defreitas/machinelearning/)
+* [NYU's Deep Learning](http://cilvr.nyu.edu/doku.php?id=deeplearning:slides:start)
+* [Cambridge Information Theory, Pattern Recognition, and Neural Networks](http://www.inference.org.uk/itprnn_lectures/)
+* [MIT Statistical Learning Theory and Applications](http://www.mit.edu/~9.520/fall15/index.html)
+* [CMU Statistical Machine Learning](http://www.mit.edu/~9.520/fall15/index.html)
+* [CMU Convex Optimization](http://www.stat.cmu.edu/~ryantibs/convexopt-S15/)
+
+Libros
+* [Understanding Machine Learning: From Theory to Algorithms](http://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/)
+* [Deep Learning Book](http://www.deeplearningbook.org/)
+* [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/)
+* [Unsupervised Feature Learning and Deep Learning](http://ufldl.stanford.edu/wiki/index.php/UFLDL_Tutorial)
   
